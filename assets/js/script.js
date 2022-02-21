@@ -145,3 +145,6 @@ function displayDivisionQuestion(operand1, operand2) {
     document.getElementById('operator').textContent = "/";
 }
 
+/**
+ * testdsada
+ */
